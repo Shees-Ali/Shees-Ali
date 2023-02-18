@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Shees Ali</h1>
-<h3 align="center">A Computer Science Student and also a Hybrid Mobile App Developer.</h3>
+<h3 align="center">A Computer Science Student and a Full Stack Developer having expertise in Angular, Node.js and Laravel</h3>
 
 - 🌱 I’m currently learning **Introduction to Cloud Computing**
 
