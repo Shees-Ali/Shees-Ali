@@ -28,7 +28,7 @@ My ability to create bespoke, user-friendly applications that seamlessly integra
 - 🎓 Currently pursuing a Bachelor's Degree in Computer Science   
   
 
-- 🌱 I’m currently learning Cloud Computing and Cyber Security   
+- 🌱 Enthusiastic about Cyber Security and Full Stack Development.
   
 
 - ❓ Ask me about anything related to Hyrbid Mobile App Development.  
