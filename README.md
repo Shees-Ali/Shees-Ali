@@ -12,9 +12,9 @@
 
 
 ### Glad to see you here!  
-A passionate Full Stack Developer and Mobile App Developer with three years of hands-on experience in crafting exceptional applications. My love for coding is only matched by my dedication to delivering high-quality solutions that meet and exceed my client's expectations.
+A passionate Full Stack Developer and Mobile App Developer with four years of hands-on experience in crafting exceptional applications. My love for coding is only matched by my dedication to delivering high-quality solutions that meet and exceed my client's expectations.
 
-In addition to my extensive experience in the tech industry, I have also spent a year freelancing on various platforms, where I have gained invaluable insights into the fast-paced world of digital innovation. This has enabled me to not only master a range of programming languages and frameworks, but also to develop strong communication and project management skills.
+In addition to my extensive experience in the tech industry, I have also spent a year freelancing on various platforms, where I have gained invaluable insights into the fast-paced world of digital innovation. This has enabled me to not only master a range of programming languages and frameworks but also to develop strong communication and project management skills.
 
 My ability to create bespoke, user-friendly applications that seamlessly integrate with back-end systems is second to none. With my exceptional technical skills and meticulous attention to detail, I am well-equipped to tackle any challenge that comes my way. Whether you need a custom-built mobile app or a scalable web solution, I have the expertise and passion to bring your vision to life.  
   
@@ -31,7 +31,7 @@ My ability to create bespoke, user-friendly applications that seamlessly integra
 - 🌱 Enthusiastic about Cyber Security and Full Stack Development.
   
 
-- ❓ Ask me about anything related to Hyrbid Mobile App Development.  
+- ❓ Ask me about anything related to Mobile App Development.  
   
 
 - ⚡ Fun fact: Error 404. Not Found.  
